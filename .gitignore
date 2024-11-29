@@ -68,4 +68,4 @@ docs/.vitepress/.temp
 
 
 *.log
-
+*.pid
